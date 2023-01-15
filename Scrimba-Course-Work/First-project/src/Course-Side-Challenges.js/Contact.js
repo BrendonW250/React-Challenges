@@ -1,5 +1,6 @@
 import React from "react"
 
+// This is the contact component for this specific challenge
 function Contact() {
     return (
         <div className="contact-card">
