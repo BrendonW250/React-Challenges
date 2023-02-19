@@ -1,0 +1,175 @@
+
+
+/* Navbar styling */
+.nav-section{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    width: 550px;
+    height: 91px;
+    left: 0px;
+    top: 0px;
+    
+    background: #21222A;
+}
+
+/* img{
+
+} */
+
+.heading-left{
+    position: absolute;
+    /* width: 122.39px; */
+    width: 200px;
+    height: 22.25px;
+    left: 61.61px;
+    top: 31px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22.2535px;
+    line-height: 27px;
+    letter-spacing: -0.05em;
+
+    color: #61DAFB;
+}
+
+.heading-right{
+    position: absolute;
+    /* width: 259px; */
+    width: 220px;
+    height: 21px;
+    left: 264px;
+    top: 38px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: right;
+    color: #DEEBF8;
+}
+
+/* Main section styling */
+.main{
+    position: absolute;
+    width: 550px;
+    height: 459px;
+    left: 0px;
+    top: 91px;
+
+    background: #282D35;
+}
+
+.title{
+    position: absolute;
+    width: 424px;
+    height: 41px;
+    left: 27px;
+    top: 20px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 39.06px;
+    line-height: 47px;
+    letter-spacing: -0.05em;
+
+    color: #FFFFFF;
+}
+
+ul > .first{
+    position: absolute;
+    width: 390px;
+    height: 17.81px;
+    left: 74px;
+    top: 120px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+}
+
+ul > .second{
+    position: absolute;
+    width: 390px;
+    height: 19.51px;
+    left: 74px;
+    top: 160px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+/* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
+ul > .third{
+    position: absolute;
+    width: 390px;
+    height: 16.96px;
+    left: 74px;
+    top: 200px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+
+ul > .fourth{
+
+    position: absolute;
+    width: 390px;
+    height: 18.9px;
+    left: 74px;
+    top: 240px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+/* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
+ul > .fifth{
+
+    position: absolute;
+    width: 390px;
+    height: 39.87px;
+    left: 74px;
+    top: 280px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
