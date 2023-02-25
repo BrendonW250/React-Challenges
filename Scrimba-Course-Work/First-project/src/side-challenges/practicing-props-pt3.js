@@ -1,6 +1,13 @@
 import React from 'react'
-import Contact from './Contact'
+// import Contact from './Contact'
+import Contact from './destructuring-props'
 
+// Here is where the details you want for the prop you created in the
+// component is created
+// The attributes look similar to HTML attributes 
+// But in React this is how the component get their information
+// And whatever is put within the Component's attributes is 
+// displayed on the screen
 function App(){
     return (
         <div className='contacts'>

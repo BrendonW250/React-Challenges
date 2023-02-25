@@ -9,17 +9,12 @@ function Contact(props) {
     // to access the properties we want displayed
     return (
         <div className="contact-card">
-            <img src={props.img} />
+            <img src="{props.img}" />
             <h3>{props.name}</h3>
-            <div className="info-group">
-                <img src={props.img} />
-                <p>{props.phone}</p>
-            </div>
-            <div className="info-group">
-                <img src={props.img} />
-                <p>{props.email}</p>
-            </div>
+            <p>{props.phone}</p>
+            <p>{props.email}</p>
         </div>
+       
     )
 }
 
