@@ -25,11 +25,14 @@ import React from 'react'
 // This is representing the joke component
 function Jokes(props){
   
+  
     return (
         <div className='jokes'>
             <h2>Setup: {props.setup}</h2>
 
             <h2>Punchline: {props.punchline}</h2>
+
+            <h2>Number: {props.number}</h2>
 
             <br></br>
 

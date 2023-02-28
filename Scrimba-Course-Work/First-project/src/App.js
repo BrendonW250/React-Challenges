@@ -6,13 +6,21 @@ import ReactDOM from 'react-dom'
 import Jokes from './side-challenges/propsPracticeApp'
 
 
+// How would you pass in a non string prop in a component?
+// Simply put curly braces in the component
+
+
 function App() {
 
+  
   return (
+    
     <div className='App'>
       <Jokes 
         setup="I got my daughter a fridge for her birthday."
         punchline="I can't wait to see her face light up when she opens it"
+        number= {86}
+        
       />
 
       <Jokes
