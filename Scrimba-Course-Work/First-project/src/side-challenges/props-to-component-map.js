@@ -9,7 +9,7 @@ the jokes show up on the page again
 */
 
 export default function App() {
-    const jokeElements = jokesData.map(joke => {
+    const jokeElements = jokesData.map(joke => { //has
         return <Joke  
         
         // need to make sure i'm putting curly brackets around props when
