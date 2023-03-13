@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Karla", sans-serif;
+    margin: 0;
+}
+
+/* Header section */
+.header{
+    position: absolute;
+    width: 550px;
+    height: 65px;
+    left: 0px;
+    top: 0px;
+
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+}
+
+/* troll face styling */
+img{
+    
+    position: absolute;
+    width: 31.31px;
+    height: 26.22px;
+    left: 20px;
+    top: 19px;
+
+    /* position: absolute;
+    left: 7.07%;
+    right: 91.12%;
+    top: 4.83%;
+    bottom: 94.25%;
+
+    background: #0D0D0D; */
+}
+
+/* Meme heading */
+.meme-heading{
+    position: absolute;
+    width: 140.79px;
+    height: 24px;
+    left: 58px;
+    top: 2px;
+
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20.7482px;
+    line-height: 24px;
+    letter-spacing: -0.1em;
+
+    color: #FFFFFF;
+}
+
+
+/* React heading */
+.react-heading{
+    position: absolute;
+    width: 189px;
+    height: 14px;
+    left: 324px;
+    top: 16px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: right;
+
+    color: #FFFFFF;
+
+}
